@@ -1,0 +1,116 @@
+{
+	"by": "symbol",
+	"valid_key": true,
+	"results": {
+		"EMBR3": {
+			"kind": "stock",
+			"symbol": "EMBR3",
+			"name": "Embraer",
+			"company_name": "Embraer S.A.",
+			"document": "07.689.002/0001-89",
+			"description": "Projeto. Desenvolvimento. Fabricação. Comercialização de Aeronaves E Sistemas E Fornecimento de Suporte E Serviços de Pós-venda.",
+			"website": "http://www.embraer.com.br/",
+			"sector": "Bens Industriais / Material de Transporte / Material Aeronáutico e de Defesa",
+			"financials": {
+				"equity": 19045206000,
+				"quota_count": 740465044,
+				"equity_per_share": 25.721,
+				"price_to_book_ratio": 2.583,
+				"dividends": {
+					"yield_12m": 0.105,
+					"yield_12m_sum": 0.07
+				}
+			},
+			"region": "Brazil/Sao Paulo",
+			"currency": "BRL",
+			"market_time": {
+				"open": "10:00",
+				"close": "17:30",
+				"timezone": -3
+			},
+			"logo": {
+				"small": "https://assets.hgbrasil.com/finance/companies/small/embraer.png",
+				"big": "https://assets.hgbrasil.com/finance/companies/big/embraer.png"
+			},
+			"market_cap": 49196.5,
+			"price": 66.44,
+			"change_percent": -3.51,
+			"change_price": -2.42,
+			"volume": 5881300,
+			"updated_at": "2025-06-14 20:46:13"
+		},
+		"HGLG11": {
+			"kind": "fii",
+			"symbol": "HGLG11",
+			"name": "FII HGLG Pax",
+			"company_name": "Pátria Log Fundo Investimento Imobiliário Responsabilidade Ltda",
+			"document": "11.728.688/0001-47",
+			"description": "Financeiro e Outros/Fundos/Fundos Imobiliários",
+			"website": "https://www.bancogenial.com/",
+			"sector": "Imóveis Industriais e Logísticos",
+			"financials": {
+				"equity": 5498701129,
+				"quota_count": 33787575,
+				"equity_per_share": 162.743,
+				"price_to_book_ratio": 0.968,
+				"dividends": {
+					"yield_12m": 9.08,
+					"yield_12m_sum": 14.3
+				}
+			},
+			"region": "Brazil/Sao Paulo",
+			"currency": "BRL",
+			"market_time": {
+				"open": "10:00",
+				"close": "17:30",
+				"timezone": -3
+			},
+			"logo": null,
+			"market_cap": 5321.21,
+			"price": 157.49,
+			"change_percent": 1.21,
+			"change_price": 1.88,
+			"volume": 64454,
+			"updated_at": "2025-06-14 20:46:14"
+		},
+		"ITSA4": {
+			"kind": "stock",
+			"symbol": "ITSA4",
+			"name": "Itaúsa",
+			"company_name": "ItauSA S.A.",
+			"document": "61.532.644/0001-15",
+			"description": "Gestão de Participações Societárias (holding)",
+			"website": "http://www.itausa.com.br/",
+			"sector": "Financeiro / Intermediários Financeiros / Bancos",
+			"financials": {
+				"equity": 86463000000,
+				"quota_count": 10993810633,
+				"equity_per_share": 7.865,
+				"price_to_book_ratio": 1.362,
+				"dividends": {
+					"yield_12m": 8.375,
+					"yield_12m_sum": 0.897
+				}
+			},
+			"region": "Brazil/Sao Paulo",
+			"currency": "BRL",
+			"market_time": {
+				"open": "10:00",
+				"close": "17:30",
+				"timezone": -3
+			},
+			"logo": {
+				"small": "https://assets.hgbrasil.com/finance/companies/small/itausa.png",
+				"big": "https://assets.hgbrasil.com/finance/companies/big/itausa.png"
+			},
+			"market_cap": 117669,
+			"price": 10.71,
+			"change_percent": -1.02,
+			"change_price": -0.11,
+			"volume": 16997500,
+			"updated_at": "2025-06-14 20:46:13"
+		}
+	},
+	"execution_time": 0.02,
+	"from_cache": false
+}
